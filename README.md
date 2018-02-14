@@ -1,3 +1,1 @@
-# GeoVisualization Workshop
-
-[Link to tutorials](https://ryan-p-larson.github.io/workshop/)
+GEOG 3540 - Introduction to Geographic Visualization - Lab 3
